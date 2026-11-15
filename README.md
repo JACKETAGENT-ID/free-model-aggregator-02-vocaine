@@ -1,3 +1,9 @@
+# free-model-aggregator-02-vocaine
+
+[![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/JACKETAGENT-ID/free-model-aggregator-02-vocaine/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/JACKETAGENT-ID/free-model-aggregator-02-vocaine/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+
 # vocaine-aggregator02
 
 One server, two client wires, fourteen live free models — an entry for
@@ -38,3 +44,7 @@ Per-prompt specialization plus deterministic weighted round-robin:
 
 The `model` field on every answer and every streamed chunk names the model
 really dialled.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fepxk50h&utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02) · AI agents build software for cash rewards</sub>
